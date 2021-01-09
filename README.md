@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/logo2%20(1).png" alt="drawing" width="200"/>
+<img src="https://github.com/AM1CODES/PythonWeek-GraduateAdmission/blob/main/pyweek.png" alt="drawing" width="200"/>
 </p>
 
 # PythonWeek-GraduateAdmission
