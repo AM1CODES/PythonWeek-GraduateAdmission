@@ -9,6 +9,10 @@ Students all across the world go through a phase where they have to make a decis
 It is a web-app that makes use of Machine learning inorder to determine whether a student will be able to get into a Graduate Admission based on metrics such as their GRE scores, TOEFL scores, their CGPA and other relevant stuff.
 
 # What did we use to build it?
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <br>
+
+
+ 
 The primary language for modeling and data analysis was Python. We made use of Sci-Kit learn library in order to make our model which is a linear regression model. We made use of Libraries like Matplotlib and Seaborn for visualizing our data.
 
 # About the Data-set
