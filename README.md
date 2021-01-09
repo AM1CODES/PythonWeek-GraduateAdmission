@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/logo2%20(1).png" alt="drawing" width="200"/>
+</p>
+
 # PythonWeek-GraduateAdmission
 Students all across the world go through a phase where they have to make a decision whether they wish to study further in order to gain in-dept knowledge about the stuff in their field or whether they start working. Well that depends on an individual and what he/she wishes to do but if you are someone who wishes to pursue further studies, this project might help you out.
 
