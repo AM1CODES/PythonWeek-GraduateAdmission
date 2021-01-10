@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AM1CODES/PythonWeek-GraduateAdmission/blob/main/pyweek.png" alt="drawing" width="200"/>
+<img src="https://github.com/AM1CODES/PythonWeek-GraduateAdmission/blob/main/pyweek.png" alt="drawing" width="500"/>
 </p>
 
 # PythonWeek-GraduateAdmission
@@ -15,6 +15,7 @@ It is a web-app that makes use of Machine learning inorder to determine whether 
  
 The primary language for modeling and data analysis was Python. We made use of Sci-Kit learn library in order to make our model which is a linear regression model. We made use of Libraries like Matplotlib and Seaborn for visualizing our data.
 
+
 # About the Data-set
 I used a data set off of Kaggle. It contained data of real students and their GRE scores, TOEFL scores and other relevant data which is important during Admission in any Graduate Program.
 
@@ -25,6 +26,14 @@ I used a data set off of Kaggle. It contained data of real students and their GR
 4. Once the model was ready, i put it in a pickle file. <br>
 5. I then shifted to Colab Notebook where i deployed the model on web  using PyNgrok and Streamlit. The front end of the Web app was all made using Stream lit and i then used Pyngrok to host it on web. <br>
 6. In the end i tested the web app with the inputs from the test set that we created and the model gave results very close to the results we had in our original data. <br>
+
+# Image Gallery
+<p align="center">
+<img src="https://github.com/AM1CODES/PythonWeek-GraduateAdmission/blob/main/Screenshot%20(125).png" alt="drawing" width="800"/>
+</p>
+<p align="center">
+<img src="https://github.com/AM1CODES/PythonWeek-GraduateAdmission/blob/main/Screenshot%20(126).png" alt="drawing" width="800"/>
+</p>
 
 # Conclusion
 The model was able to make some very good predictions. The model accuracy was somewhere around 94-95% which is quite decent and even on the data which the model had never seen before, it was able to make some good predictions.
